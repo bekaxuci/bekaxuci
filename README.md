@@ -49,6 +49,17 @@
   - Billing and Payment Claims
 </p>
 
+<h3 align="left">💡 Skills</h3>
+<p align="left">
+  - Web Development (HTML, CSS, JavaScript)<br>
+  - Frontend Frameworks (React, Angular)<br>
+  - Backend Development (Node.js, Python, Flask)<br>
+  - Database Management (MySQL, PostgreSQL)<br>
+  - Version Control (Git, GitHub)<br>
+  - Project Management and Coordination<br>
+  - Strong Communication Skills
+</p>
+
 <h3 align="left">🛠 Languages and Tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
@@ -67,3 +78,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bekaxuci&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
