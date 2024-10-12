@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer Bootcamp Graduate<br>4GEEKS ACADEMY | 2024<br><br>Developing code for both the frontend and backend.<br>Traffic Department Manager<br>Ramirez Dolz S.L. | 2022 – Present<br><br>Operations Coordination<br>Client Communication<br>Driver Supervision<br>Performance Analysis<br>Traffic Administrator<br>Grupo Salgar | 2021 – 2022 (1 year)<br><br>Document Management<br>Schedule Coordination<br>Internal and External Communication<br>Traffic Administrator<br>Transitos Costa Este S.L. | 2021 – 2022 (1 year)<br><br>Finance Administrator<br>Colmar SL. | 2019 (7 months)<br><br>Financial Documentation Management<br>Budget Control<br>Billing and Payment Claims</p>
+<p align="left">Full-Stack Developer Bootcamp Graduate<br>4GEEKS ACADEMY | 2024<br><br>  ○ Developing code for both the frontend and backend.<br>Traffic Department Manager<br>Ramirez Dolz S.L. | 2022 – Present<br><br>  ○ Operations Coordination<br>  ○ Client Communication<br>  ○ Driver Supervision<br>  ○ Performance Analysis<br>Traffic Administrator<br>Grupo Salgar | 2021 – 2022 (1 year)<br><br>  ○ Document Management<br>  ○ Schedule Coordination<br>  ○ Internal and External Communication<br>Traffic Administrator<br>Transitos Costa Este S.L. | 2021 – 2022 (1 year)<br><br>Finance Administrator<br>Colmar SL. | 2019 (7 months)<br><br>Financial Documentation Management<br>Budget Control<br>Billing and Payment Claims</p>
 
 ###
 
