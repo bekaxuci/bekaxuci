@@ -12,13 +12,7 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left">
-  I'm Beka from Valencia, Spain.<br><br>
-  - 🔭 I’m working independently on new projects.<br>
-  - 📚 I'm currently learning new languages, both backend and frontend.<br>
-  - ⚡ In my free time, I enjoy exploring new technologies and improving my coding skills.
-</p>
+<h3 align="left">👩‍💻 About Me</h3> <p align="left"> I'm Beka from Valencia, Spain.<br><br> - 🔭 I’m currently working as a Traffic Department Manager, where I have gained 5 years of experience in operations coordination, client communication, and performance analysis. This role has honed my problem-solving skills and taught me the importance of efficient systems and processes, which are crucial in software development.<br> - 📚 I'm actively learning new programming languages, both backend and frontend, to enhance my development capabilities. My work in traffic management has also given me insights into data analysis and logistics, which I apply to build more effective and user-centered applications.<br> - ⚡ In my free time, I enjoy exploring new technologies and improving my coding skills. I am particularly passionate about creating solutions that streamline operations and enhance user experiences in both the transportation and tech industries. </p>
 
 <h3 align="left">💼 Experience</h3>
 <p align="left">
