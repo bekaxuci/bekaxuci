@@ -22,27 +22,27 @@
 
 <h3 align="left">💼 Experience</h3>
 <p align="left">
-  **Full-Stack Developer Bootcamp Graduate**<br>
+  <h4 style="margin: 0; font-weight: bold;">Full-Stack Developer Bootcamp Graduate</h4>
   4GEEKS ACADEMY | 2024<br>
   - Developing code for both the frontend and backend.<br><br>
   
-  **Traffic Department Manager**<br>
+  <h4 style="margin: 0; font-weight: bold;">Traffic Department Manager</h4>
   Ramirez Dolz S.L. | 2022 – Present<br>
   - Operations Coordination<br>
   - Client Communication<br>
   - Driver Supervision<br>
   - Performance Analysis<br><br>
 
-  **Traffic Administrator**<br>
+  <h4 style="margin: 0; font-weight: bold;">Traffic Administrator</h4>
   Grupo Salgar | 2021 – 2022 (1 year)<br>
   - Document Management<br>
   - Schedule Coordination<br>
   - Internal and External Communication<br><br>
 
-  **Traffic Administrator**<br>
+  <h4 style="margin: 0; font-weight: bold;">Traffic Administrator</h4>
   Transitos Costa Este S.L. | 2021 – 2022 (1 year)<br><br>
 
-  **Finance Administrator**<br>
+  <h4 style="margin: 0; font-weight: bold;">Finance Administrator</h4>
   Colmar SL. | 2019 (7 months)<br>
   - Financial Documentation Management<br>
   - Budget Control<br>
